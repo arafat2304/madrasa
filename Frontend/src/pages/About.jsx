@@ -5,7 +5,7 @@ function About() {
 
   return (
     <>
-      <Navbar />
+    
 
       <section className="max-w-5xl mx-auto px-6 py-20">
 
@@ -22,7 +22,7 @@ function About() {
 
       </section>
 
-      <Footer />
+    
     </>
   );
 }

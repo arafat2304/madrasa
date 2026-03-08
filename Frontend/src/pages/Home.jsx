@@ -11,7 +11,6 @@ function Home() {
 
   return (
     <>
-      <Navbar/>
 
       <Hero/>
 
@@ -19,11 +18,7 @@ function Home() {
 
       <Activities/>
 
-      <PropertySection/>
 
-      <Transparency/>
-
-      <Footer/>
     </>
   );
 }

@@ -21,7 +21,7 @@ function Transparency() {
 
   return (
     <>
-      <Navbar />
+    
 
       {/* Header */}
 
@@ -155,7 +155,7 @@ function Transparency() {
 
       </section>
 
-      <Footer />
+    
     </>
   );
 }

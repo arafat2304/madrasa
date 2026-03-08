@@ -21,7 +21,7 @@ function Development() {
 
   return (
     <>
-      <Navbar />
+      
 
       {/* Header */}
 
@@ -68,7 +68,7 @@ function Development() {
 
       </section>
 
-      <Footer />
+      
     </>
   );
 }
